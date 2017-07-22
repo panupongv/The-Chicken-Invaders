@@ -1,0 +1,3 @@
+screen 900 * 700
+start 900 * 563
+game bg 580 * 680
